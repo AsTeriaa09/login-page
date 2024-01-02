@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/login-page/static/css/main.20386ee1.css",
+    "main.js": "/login-page/static/js/main.fec8c117.js",
+    "static/media/dentalytis.svg": "/login-page/static/media/dentalytis.18755afdd723c2c7f1f9.svg",
+    "index.html": "/login-page/index.html",
+    "main.20386ee1.css.map": "/login-page/static/css/main.20386ee1.css.map",
+    "main.fec8c117.js.map": "/login-page/static/js/main.fec8c117.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20386ee1.css",
+    "static/js/main.fec8c117.js"
+  ]
+}
